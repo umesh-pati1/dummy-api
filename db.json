@@ -1,0 +1,570 @@
+{
+  "contacts": [
+    {
+      "id": "1042",
+      "rawId": "1",
+      "displayName": "Samsung Helpline",
+      "name": {
+        "givenName": "Samsung Helpline",
+        "formatted": "Samsung Helpline "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "2",
+          "pref": false,
+          "value": "1800407267864",
+          "type": "mobile"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 9
+    },
+    {
+      "id": "1043",
+      "rawId": "2",
+      "displayName": "rakshit",
+      "name": {
+        "givenName": "rakshit",
+        "formatted": "rakshit "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "7",
+          "pref": false,
+          "value": "+91 73377 33038",
+          "type": "mobile"
+        },
+        {
+          "id": "3145",
+          "pref": false,
+          "value": "+917337733038",
+          "type": "mobile"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 8
+    },
+    {
+      "id": "1045",
+      "rawId": "4",
+      "displayName": "vikraM methre#",
+      "name": {
+        "familyName": "methre#",
+        "givenName": "vikraM",
+        "formatted": "vikraM methre#"
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "17",
+          "pref": false,
+          "value": "8197578991",
+          "type": "Custom"
+        },
+        {
+          "id": "2995",
+          "pref": false,
+          "value": "8197578991",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 13
+    },
+    {
+      "id": "1046",
+      "rawId": "5",
+      "displayName": "harshul roommate",
+      "name": {
+        "familyName": "roommate",
+        "givenName": "harshul",
+        "formatted": "harshul roommate"
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "22",
+          "pref": false,
+          "value": "+919098370000",
+          "type": "Custom"
+        },
+        {
+          "id": "23",
+          "pref": false,
+          "value": "+91 90983 70000",
+          "type": "Custom"
+        },
+        {
+          "id": "3075",
+          "pref": false,
+          "value": "+919098370000",
+          "type": "Custom"
+        },
+        {
+          "id": "4065",
+          "pref": false,
+          "value": "+919098370000",
+          "type": "Custom"
+        },
+        {
+          "id": "4066",
+          "pref": false,
+          "value": "+91 90983 70000",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 6
+    },
+    {
+      "id": "1047",
+      "rawId": "6",
+      "displayName": "Yashraj",
+      "name": {
+        "givenName": "Yashraj",
+        "formatted": "Yashraj "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "28",
+          "pref": false,
+          "value": "+91 77818 14896",
+          "type": "mobile"
+        },
+        {
+          "id": "3585",
+          "pref": false,
+          "value": "+917781814896",
+          "type": "mobile"
+        },
+        {
+          "id": "5352",
+          "pref": false,
+          "value": "+91 77818 14896",
+          "type": "mobile"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 15
+    },
+    {
+      "id": "1048",
+      "rawId": "7",
+      "displayName": "Xyz",
+      "name": {
+        "givenName": "Xyz",
+        "formatted": "Xyz "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "33",
+          "pref": false,
+          "value": "+91 70226 66121",
+          "type": "Custom"
+        },
+        {
+          "id": "34",
+          "pref": false,
+          "value": "+917022666121",
+          "type": "Custom"
+        },
+        {
+          "id": "3520",
+          "pref": false,
+          "value": "+917022666121",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 14
+    },
+    {
+      "id": "1049",
+      "rawId": "8",
+      "displayName": "Tusharlal",
+      "name": {
+        "givenName": "Tusharlal",
+        "formatted": "Tusharlal "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "39",
+          "pref": false,
+          "value": "+918210691407",
+          "type": "Custom"
+        },
+        {
+          "id": "40",
+          "pref": false,
+          "value": "+91 82106 91407",
+          "type": "Custom"
+        },
+        {
+          "id": "3340",
+          "pref": false,
+          "value": "+918210691407",
+          "type": "Custom"
+        },
+        {
+          "id": "4076",
+          "pref": false,
+          "value": "+918210691407",
+          "type": "Custom"
+        },
+        {
+          "id": "4077",
+          "pref": false,
+          "value": "+91 82106 91407",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 11
+    },
+    {
+      "id": "1050",
+      "rawId": "9",
+      "displayName": "siddu toran#",
+      "name": {
+        "familyName": "toran#",
+        "givenName": "siddu",
+        "formatted": "siddu toran#"
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "45",
+          "pref": false,
+          "value": "+919108182565",
+          "type": "Custom"
+        },
+        {
+          "id": "46",
+          "pref": false,
+          "value": "+91 91081 82565",
+          "type": "Custom"
+        },
+        {
+          "id": "3390",
+          "pref": false,
+          "value": "+919108182565",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 10
+    },
+    {
+      "id": "1053",
+      "rawId": "12",
+      "displayName": "chanakya rvce",
+      "name": {
+        "familyName": "rvce",
+        "givenName": "chanakya",
+        "formatted": "chanakya rvce"
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "62",
+          "pref": false,
+          "value": "+91 91106 52118",
+          "type": "Custom"
+        },
+        {
+          "id": "63",
+          "pref": false,
+          "value": "+919110652118",
+          "type": "Custom"
+        },
+        {
+          "id": "3440",
+          "pref": false,
+          "value": "+919110652118",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 4
+    },
+    {
+      "id": "1055",
+      "rawId": "15",
+      "displayName": "arpit rvce",
+      "name": {
+        "familyName": "rvce",
+        "givenName": "arpit",
+        "formatted": "arpit rvce"
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "79",
+          "pref": false,
+          "value": "+919480352907",
+          "type": "Custom"
+        },
+        {
+          "id": "80",
+          "pref": false,
+          "value": "+91 94803 52907",
+          "type": "Custom"
+        },
+        {
+          "id": "3575",
+          "pref": false,
+          "value": "+919480352907",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 2
+    },
+    {
+      "id": "1057",
+      "rawId": "17",
+      "displayName": "Ajay",
+      "name": {
+        "givenName": "Ajay",
+        "formatted": "Ajay "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "91",
+          "pref": false,
+          "value": "+91 86607 04871",
+          "type": "Custom"
+        },
+        {
+          "id": "92",
+          "pref": false,
+          "value": "+918660704871",
+          "type": "Custom"
+        },
+        {
+          "id": "3625",
+          "pref": false,
+          "value": "+918660704871",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 1
+    },
+    {
+      "id": "1058",
+      "rawId": "18",
+      "displayName": "hottichetan",
+      "name": {
+        "givenName": "hottichetan",
+        "formatted": "hottichetan "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "97",
+          "pref": false,
+          "value": "+917349314401",
+          "type": "Custom"
+        },
+        {
+          "id": "98",
+          "pref": false,
+          "value": "+91 73493 14401",
+          "type": "Custom"
+        },
+        {
+          "id": "3140",
+          "pref": false,
+          "value": "+917349314401",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 6
+    },
+    {
+      "id": "1060",
+      "rawId": "20",
+      "displayName": "guru",
+      "name": {
+        "givenName": "guru",
+        "formatted": "guru "
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "109",
+          "pref": false,
+          "value": "+91 83106 10082",
+          "type": "Custom"
+        },
+        {
+          "id": "110",
+          "pref": false,
+          "value": "+918310610082",
+          "type": "Custom"
+        },
+        {
+          "id": "3025",
+          "pref": false,
+          "value": "+918310610082",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 5
+    },
+    {
+      "id": "1063",
+      "rawId": "23",
+      "displayName": "rahul sulugunte",
+      "name": {
+        "familyName": "sulugunte",
+        "givenName": "rahul",
+        "formatted": "rahul sulugunte"
+      },
+      "nickname": null,
+      "phoneNumbers": [
+        {
+          "id": "127",
+          "pref": false,
+          "value": "+91 95912 70045",
+          "type": "Custom"
+        },
+        {
+          "id": "128",
+          "pref": false,
+          "value": "+919591270045",
+          "type": "Custom"
+        },
+        {
+          "id": "3245",
+          "pref": false,
+          "value": "+919591270045",
+          "type": "Custom"
+        }
+      ],
+      "emails": null,
+      "addresses": null,
+      "ims": null,
+      "organizations": null,
+      "birthday": null,
+      "note": null,
+      "photos": null,
+      "categories": null,
+      "urls": null,
+      "_groupIndex": 8
+    }
+  ]
+}
