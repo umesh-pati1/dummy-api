@@ -1,327 +1,50 @@
 {
-  "contacts": [
-    {
-      "id": "1042",
-      "rawId": "1",
-      "displayName": "Samsung Helpline",
-      "name": {
-        "givenName": "Samsung Helpline",
-        "formatted": "Samsung Helpline "
-      },
-      "nickname": null,
-      "phoneNumbers": [
+  "personalInfo": {
+    "totalResults": 3,
+    "matchedStructuredAddress": [
         {
-          "id": "2",
-          "pref": false,
-          "value": "1800407267864",
-          "type": "mobile"
+            "houseOrBuildingNumber": "6",
+            "houseOrBuildingName": "HouseClub",
+            "subBuildingNumber": "Flat 6",
+            "street1": "Flat 6",
+            "line1": "6 HouseClub",
+            "line2": "Flat 6",
+            "cityOrTown": "Hemel Hempstead",
+            "stateOrCounty": "Hertfordshire",
+            "postalCode": "HP1 3LG",
+            "country": "GB",
+            "addressType": "home",
+            "addressIdByExternalProvider": "1234"
+        },
+        {
+            "houseOrBuildingNumber": "6",
+            "houseOrBuildingName": "HouseClub",
+            "subBuildingNumber": "Flat 6",
+            "street1": "Flat 6",
+            "line1": "6 HouseClub",
+            "line2": "Flat 6",
+            "cityOrTown": "Hemel Hempstead",
+            "stateOrCounty": "Hertfordshire",
+            "postalCode": "HP1 3LG",
+            "country": "GB",
+            "addressType": "home",
+            "addressIdByExternalProvider": "1234"
+        },
+        {
+            "houseOrBuildingNumber": "6",
+            "houseOrBuildingName": "HouseClub",
+            "subBuildingNumber": "Flat 6",
+            "street1": "Flat 6",
+            "line1": "6 HouseClub",
+            "line2": "Flat 6",
+            "cityOrTown": "Hemel Hempstead",
+            "stateOrCounty": "Hertfordshire",
+            "postalCode": "HP1 3LG",
+            "country": "GB",
+            "addressType": "home",
+            "addressIdByExternalProvider": "1234"
         }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 9
-    },
-    {
-      "id": "1043",
-      "rawId": "2",
-      "displayName": "rakshit",
-      "name": {
-        "givenName": "rakshit",
-        "formatted": "rakshit "
-      },
-      "nickname": null,
-      "phoneNumbers": [
-        {
-          "id": "7",
-          "pref": false,
-          "value": "+91 73377 33038",
-          "type": "mobile"
-        },
-        {
-          "id": "3145",
-          "pref": false,
-          "value": "+917337733038",
-          "type": "mobile"
-        }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 8
-    },
-    {
-      "id": "1045",
-      "rawId": "4",
-      "displayName": "vikraM methre#",
-      "name": {
-        "familyName": "methre#",
-        "givenName": "vikraM",
-        "formatted": "vikraM methre#"
-      },
-      "nickname": null,
-      "phoneNumbers": [
-        {
-          "id": "17",
-          "pref": false,
-          "value": "8197578991",
-          "type": "Custom"
-        },
-        {
-          "id": "2995",
-          "pref": false,
-          "value": "8197578991",
-          "type": "Custom"
-        }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 13
-    },
-    {
-      "id": "1046",
-      "rawId": "5",
-      "displayName": "harshul roommate",
-      "name": {
-        "familyName": "roommate",
-        "givenName": "harshul",
-        "formatted": "harshul roommate"
-      },
-      "nickname": null,
-      "phoneNumbers": [
-        {
-          "id": "22",
-          "pref": false,
-          "value": "+919098370000",
-          "type": "Custom"
-        },
-        {
-          "id": "23",
-          "pref": false,
-          "value": "+91 90983 70000",
-          "type": "Custom"
-        },
-        {
-          "id": "3075",
-          "pref": false,
-          "value": "+919098370000",
-          "type": "Custom"
-        },
-        {
-          "id": "4065",
-          "pref": false,
-          "value": "+919098370000",
-          "type": "Custom"
-        },
-        {
-          "id": "4066",
-          "pref": false,
-          "value": "+91 90983 70000",
-          "type": "Custom"
-        }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 6
-    },
-    {
-      "id": "1047",
-      "rawId": "6",
-      "displayName": "Yashraj",
-      "name": {
-        "givenName": "Yashraj",
-        "formatted": "Yashraj "
-      },
-      "nickname": null,
-      "phoneNumbers": [
-        {
-          "id": "28",
-          "pref": false,
-          "value": "+91 77818 14896",
-          "type": "mobile"
-        },
-        {
-          "id": "3585",
-          "pref": false,
-          "value": "+917781814896",
-          "type": "mobile"
-        },
-        {
-          "id": "5352",
-          "pref": false,
-          "value": "+91 77818 14896",
-          "type": "mobile"
-        }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 15
-    },
-    {
-      "id": "1048",
-      "rawId": "7",
-      "displayName": "Xyz",
-      "name": {
-        "givenName": "Xyz",
-        "formatted": "Xyz "
-      },
-      "nickname": null,
-      "phoneNumbers": [
-        {
-          "id": "33",
-          "pref": false,
-          "value": "+91 70226 66121",
-          "type": "Custom"
-        },
-        {
-          "id": "34",
-          "pref": false,
-          "value": "+917022666121",
-          "type": "Custom"
-        },
-        {
-          "id": "3520",
-          "pref": false,
-          "value": "+917022666121",
-          "type": "Custom"
-        }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 14
-    },
-    {
-      "id": "1049",
-      "rawId": "8",
-      "displayName": "Tusharlal",
-      "name": {
-        "givenName": "Tusharlal",
-        "formatted": "Tusharlal "
-      },
-      "nickname": null,
-      "phoneNumbers": [
-        {
-          "id": "39",
-          "pref": false,
-          "value": "+918210691407",
-          "type": "Custom"
-        },
-        {
-          "id": "40",
-          "pref": false,
-          "value": "+91 82106 91407",
-          "type": "Custom"
-        },
-        {
-          "id": "3340",
-          "pref": false,
-          "value": "+918210691407",
-          "type": "Custom"
-        },
-        {
-          "id": "4076",
-          "pref": false,
-          "value": "+918210691407",
-          "type": "Custom"
-        },
-        {
-          "id": "4077",
-          "pref": false,
-          "value": "+91 82106 91407",
-          "type": "Custom"
-        }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 11
-    },
-    {
-      "id": "1050",
-      "rawId": "9",
-      "displayName": "siddu toran#",
-      "name": {
-        "familyName": "toran#",
-        "givenName": "siddu",
-        "formatted": "siddu toran#"
-      },
-      "nickname": null,
-      "phoneNumbers": [
-        {
-          "id": "45",
-          "pref": false,
-          "value": "+919108182565",
-          "type": "Custom"
-        },
-        {
-          "id": "46",
-          "pref": false,
-          "value": "+91 91081 82565",
-          "type": "Custom"
-        },
-        {
-          "id": "3390",
-          "pref": false,
-          "value": "+919108182565",
-          "type": "Custom"
-        }
-      ],
-      "emails": null,
-      "addresses": null,
-      "ims": null,
-      "organizations": null,
-      "birthday": null,
-      "note": null,
-      "photos": null,
-      "categories": null,
-      "urls": null,
-      "_groupIndex": 10
-    }
-  ]
+    ]
+}
+
 }
